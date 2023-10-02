@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
+# Script to display program PID
 
-#Get the PID of the current process
-pid=$(echo $$)
-
-#Display the PID
-echo $pid
+echo $BASHPID #can also be $$
