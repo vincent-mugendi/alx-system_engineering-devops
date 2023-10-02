@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#Get the PID of the current process
+pid=$(echo $$)
+
+#Display the PID
+echo $pid
