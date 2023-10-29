@@ -1,5 +1,5 @@
 # This directory contains ALx 0x09. Web infrastructure design Project
-![](https://miro.medium.com/v2/resize:fit:659/1*YqxwjFvieYMhBSZQTL8vbw.png)
+![](https://media3.giphy.com/media/ideOXim9WoYZRhyoHv/giphy.gif)
 ## Project Concepts
 	- DevOps  SysAdmin  Web infrastructure
 
