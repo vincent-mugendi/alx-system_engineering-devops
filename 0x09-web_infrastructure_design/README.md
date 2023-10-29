@@ -14,6 +14,7 @@ This project involves the design and implementation of web infrastructure, inclu
 - LAMP (Linux, Apache, MySQL, and PHP)
 - WAMP (Windows, Apache, MySQL, and PHP)
 - Distributed Web Infrastructure
+
 ---
 ### Concepts Covered in the Project
 
@@ -33,6 +34,7 @@ Secured and Monitored Web Infrastructure
 **Intrusion detection and prevention systems (IDS/IPS):** Monitor network traffic for suspicious activity.
 
 **Web application firewalls (WAFs):** Protect web applications from common attacks.
+
 ---
 ### Whiteboarding the Infrastructure Design
 
