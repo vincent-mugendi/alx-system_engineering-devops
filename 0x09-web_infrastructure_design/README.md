@@ -1,4 +1,5 @@
 # This directory contains ALx 0x09. Web infrastructure design Project
+![](https://miro.medium.com/v2/resize:fit:659/1*YqxwjFvieYMhBSZQTL8vbw.png)
 ## Project Concepts
 	- DevOps  SysAdmin  Web infrastructure
 
@@ -14,6 +15,8 @@ This project involves the design and implementation of web infrastructure, inclu
 - WAMP (Windows, Apache, MySQL, and PHP)
 - Distributed Web Infrastructure
 ---
+### Concepts Covered in the Project
+
 **A distributed web infrastructure** is a web infrastructure that is spread across multiple servers. This allows for greater scalability and performance, as well as improved reliability. Some common components of a distributed web infrastructure include:
 
 **Load balancers:** Distribute traffic across multiple servers to improve performance and reliability.
@@ -30,7 +33,7 @@ Secured and Monitored Web Infrastructure
 **Intrusion detection and prevention systems (IDS/IPS):** Monitor network traffic for suspicious activity.
 
 **Web application firewalls (WAFs):** Protect web applications from common attacks.
-
+---
 ### Whiteboarding the Infrastructure Design
 
 Whiteboarding the infrastructure design is a process of sketching out the design of the web infrastructure on a whiteboard. This helps to visualize the overall design and identify any potential problems. Some of the key considerations when whiteboarding the infrastructure design include:
@@ -40,7 +43,7 @@ Whiteboarding the infrastructure design is a process of sketching out the design
 - The required performance and reliability.
 - The budget.
 Once the infrastructure design has been whiteboarded, it can be implemented using a variety of tools and technologies.
-
+---
 ### Additional Information
 
 In addition to the above, here is some additional information that can be considered when designing and implementing web infrastructure:
