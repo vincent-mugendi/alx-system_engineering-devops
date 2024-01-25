@@ -3,10 +3,10 @@ server {
     listen [::]:80 default_server ipv6only=on;
 
     # Use IP of server as domain name
-    server_name 35.173.42.252;
+    server_name 52.91.126.86;
 
     # Customize HTTP response header
-    add_header X-Served-By 29159-web-01;
+    add_header X-Served-By 325089-web-01;
     root /var/www/html;
     index index.html;
 
